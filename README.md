@@ -3,10 +3,10 @@
 <html>
 
 <head>
-<title> page title </title>
+page title
 <head>
 
-<h1>My first heading</h1> HEADING
+<h1>My first heading</h1>
 
 <p>Ocean pollution is bad.</p>
 
