@@ -1,4 +1,4 @@
-# by Neel S, Peter L, Vincent Z, Asher PS test desktop change
+# by Neel S, Peter L, Vincent Z, Asher PS
 
 <html>
 
