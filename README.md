@@ -9,7 +9,7 @@ page title
 <h1>My first heading</h1>
 
 <p>Ocean pollution is bad.</p>
-<a Education = "https://www.youtube.com"> Educational Video </a>
+<a href ="https://www.youtube.com">Educational Video</a>
 
 
 <body> 
