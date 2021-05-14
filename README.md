@@ -8,8 +8,8 @@ page title
 
 <h1>My first heading</h1>
 
-<p>Ocean pollution is bad. If you are interested in helping, here are some charities dedicated to cleaning our oceans: </p>
-<a href ="https://oceanconservancy.org/>Ocean Conservancy</a>
+<p>Ocean pollution is bad. If you are interested in helping, here are some charities dedicated to cleaning our oceans:</p>
+<a href ="https://oceanconservancy.org/>OceanConservancy</a>
 
 
 <body> 
