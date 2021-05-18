@@ -21,10 +21,5 @@
 
 </body>
 
-<body> 
-<h1> HEADING </h1>
-<p> ocean pollution very bad. </p>
-<p> We all have to work together to fix this massive problem. </p>
-</body>
 
 </html>
