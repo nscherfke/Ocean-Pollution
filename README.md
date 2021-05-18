@@ -2,7 +2,7 @@
 
 <head>
 <title> Ocean Pollution </title>
-<head>
+</head>
 
 <h1>My first heading</h1>
 
