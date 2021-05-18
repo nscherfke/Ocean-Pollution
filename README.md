@@ -1,12 +1,16 @@
+
+<!DOCTYPE html> 
+
 <html>
 
 <head>
 	<title>Ocean Pollution</title>
 </head>
 
-<h1>My first heading</h1>
+
 
 <body>
+	<h1>My first heading</h1>
 
 <p>Ocean pollution is affecting marine ecosystems . If you are interested in taking action, consider contributing to one of the following charities dedicated to saving our oceans:</p>
 <a href="https://oceanconservancy.org">Ocean Conservancy</a>
