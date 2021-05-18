@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title> Ocean Pollution </title>
+	<title>Ocean Pollution</title>
 </head>
 
 <h1>My first heading</h1>
